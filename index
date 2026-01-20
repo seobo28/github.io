@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <meta charset="UTF-8">
+    <title>나의 첫 홈페이지</title>
+</head>
 <body>
-  <h1>안녕하세요! 제 홈페이지에 오신 걸 환영합니다.</h1>
+    <h1>안녕하세요! GitHub에서 직접 만든 홈페이지입니다.</h1>
+    <p>이제 전 세계 어디서든 이 페이지를 볼 수 있어요.</p>
 </body>
 </html>
